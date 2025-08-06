@@ -17,5 +17,5 @@ https://github.com/user-attachments/assets/7d3fb618-acb9-492c-a075-f155bbb295bc
 ## 📂 Ejectar proyecto
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/tu-usuario/tu-proyecto.git](https://github.com/tu-usuario/tu-proyecto.git)
+    git clone git@github.com:Romina1213/Peque-a-aplicacion-bancaria.git
     ```
