@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/7d3fb618-acb9-492c-a075-f155bbb295bc
 - Java 21.0.6 LTS
 - IDE: *(Eclipse, IntelliJ, NetBeans, etc.)*
 
-## 📂 Ejectar proyecto
+## 📂 Ejecutar proyecto
 1.  Clona el repositorio:
     ```bash
     git clone git@github.com:Romina1213/Peque-a-aplicacion-bancaria.git
